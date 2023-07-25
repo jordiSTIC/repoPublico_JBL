@@ -1,3 +1,4 @@
+--Added in publicJBL
 curl -X POST -H "Cache-Control: no-cache" -H "Content-Type: application/x-www-form-urlencoded" -d 'api_key=u819663-3e5dccf7d041d0b5d1c3d48f&format=json&id=793630749' "https://api.uptimerobot.com/v2/deleteMonitor"
 curl -X POST -H "Cache-Control: no-cache" -H "Content-Type: application/x-www-form-urlencoded" -d 'api_key=u819663-3e5dccf7d041d0b5d1c3d48f&format=json&id=787068926' "https://api.uptimerobot.com/v2/deleteMonitor"
 curl -X POST -H "Cache-Control: no-cache" -H "Content-Type: application/x-www-form-urlencoded" -d 'api_key=u819663-3e5dccf7d041d0b5d1c3d48f&format=json&id=787068970' "https://api.uptimerobot.com/v2/deleteMonitor"
