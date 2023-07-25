@@ -12,6 +12,53 @@ function showhelp() {
     exit 0
 }
 
+
+function showhelp() {
+    echo
+    echo "Ayuda del script"
+    echo "------------------"
+    echo "-h --help                               Muestra esta ayuda"
+    echo "-i --instances                          Pattern grep para filtrar la lista de instancias en que se crearan monitores si no existen"
+    echo "-y --yes                                No pide mensaje de confirmación. (para integrar en script)"
+    echo
+    exit 0
+}
+
+
+function showhelp() {
+    echo
+    echo "Ayuda del script"
+    echo "------------------"
+    echo "-h --help                               Muestra esta ayuda"
+    echo "-i --instances                          Pattern grep para filtrar la lista de instancias en que se crearan monitores si no existen"
+    echo "-y --yes                                No pide mensaje de confirmación. (para integrar en script)"
+    echo
+    exit 0
+}
+
+
+function showhelp() {
+    echo
+    echo "Ayuda del script"
+    echo "------------------"
+    echo "-h --help                               Muestra esta ayuda"
+    echo "-i --instances                          Pattern grep para filtrar la lista de instancias en que se crearan monitores si no existen"
+    echo "-y --yes                                No pide mensaje de confirmación. (para integrar en script)"
+    echo
+    exit 0
+}
+
+function showhelp() {
+    echo
+    echo "Ayuda del script"
+    echo "------------------"
+    echo "-h --help                               Muestra esta ayuda"
+    echo "-i --instances                          Pattern grep para filtrar la lista de instancias en que se crearan monitores si no existen"
+    echo "-y --yes                                No pide mensaje de confirmación. (para integrar en script)"
+    echo
+    exit 0
+}
+
 while [ $# -ne 0 ]; do
     case "$1" in
     -h | --help)
