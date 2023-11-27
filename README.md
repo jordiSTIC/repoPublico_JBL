@@ -1,4 +1,6 @@
 # repo Público!
+![GitHub release (with filter)](https://img.shields.io/github/v/release/jordiSTIC/repoPublico_JBL)
+
 Cambio 11:18 PCS
 Cammbio 11:27
 
